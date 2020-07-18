@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Baukis2 - 顧客管理システム
 
-Things you may want to cover:
+## 説明
+Baukis2　は　企業向けの顧客管理システムです
 
-* Ruby version
+## 推奨されるシステム
 
-* System dependencies
+## instal手順
 
-* Configuration
+## ダータベース初期化の手順
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## テストの実行手順
